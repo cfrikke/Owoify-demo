@@ -1,0 +1,17 @@
+/workspaces/Owoify-demo/obj/Debug/net7.0/Owoify-demo.csproj.AssemblyReference.cache
+/workspaces/Owoify-demo/obj/Debug/net7.0/Owoify-demo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Owoify-demo/obj/Debug/net7.0/Owoify-demo.AssemblyInfoInputs.cache
+/workspaces/Owoify-demo/obj/Debug/net7.0/Owoify-demo.AssemblyInfo.cs
+/workspaces/Owoify-demo/obj/Debug/net7.0/Owoify-demo.csproj.CoreCompileInputs.cache
+/workspaces/Owoify-demo/bin/Debug/net7.0/Owoify-demo
+/workspaces/Owoify-demo/bin/Debug/net7.0/Owoify-demo.deps.json
+/workspaces/Owoify-demo/bin/Debug/net7.0/Owoify-demo.runtimeconfig.json
+/workspaces/Owoify-demo/bin/Debug/net7.0/Owoify-demo.dll
+/workspaces/Owoify-demo/bin/Debug/net7.0/Owoify-demo.pdb
+/workspaces/Owoify-demo/bin/Debug/net7.0/Owoify.Net.dll
+/workspaces/Owoify-demo/obj/Debug/net7.0/Owoify-demo.csproj.CopyComplete
+/workspaces/Owoify-demo/obj/Debug/net7.0/Owoify-demo.dll
+/workspaces/Owoify-demo/obj/Debug/net7.0/refint/Owoify-demo.dll
+/workspaces/Owoify-demo/obj/Debug/net7.0/Owoify-demo.pdb
+/workspaces/Owoify-demo/obj/Debug/net7.0/Owoify-demo.genruntimeconfig.cache
+/workspaces/Owoify-demo/obj/Debug/net7.0/ref/Owoify-demo.dll
